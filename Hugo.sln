@@ -9,6 +9,7 @@ Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Solution Items", "Solution 
 	ProjectSection(SolutionItems) = preProject
 		..\..\..\Users\vivekragunathan\Downloads\biggy-master\biggy-master\.gitignore = ..\..\..\Users\vivekragunathan\Downloads\biggy-master\biggy-master\.gitignore
 		global.json = global.json
+		README.md = README.md
 	EndProjectSection
 EndProject
 Project("{8BB2217D-0F2D-49D1-97BC-3654ED321F3B}") = "Hugo.App", "src\App\Hugo.App.xproj", "{A6AA5431-EF66-4CBB-8134-9150A120FD0E}"
