@@ -1,0 +1,23 @@
+{
+	"name": "App",
+	"version": "1.0.0-*",
+	"buildOptions": {
+		"emitEntryPoint": true
+	},
+
+	"dependencies": {
+				"Hugo.Core": "1.0.0-*",
+				"Hugo.Data.Json": "1.0.0-*",
+				"Hugo.Data.Sqlite": "1.0.0-*",
+				"Microsoft.NETCore.App": {
+					"type": "platform",
+					"version": "1.0.1"
+				}
+	},
+
+	"frameworks": {
+		"netcoreapp1.0": {
+			"imports": "dnxcore50"
+		}
+	}
+}
